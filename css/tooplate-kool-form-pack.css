@@ -22,6 +22,7 @@ Bootstrap 5 Form Pack Template
   --custom-btn-bg-hover-color:    #F2CC8F;
   --dark-color:                   #000000;
   --p-color:                      #717275;
+  --j-color:                      #717275;
   --link-hover-color:             #F2CC8F;
 
   --body-font-family:             'Poppins', sans-serif;
@@ -505,7 +506,7 @@ strong {
 
 .contact-form .form-floating>textarea {
   border-radius: var(--border-radius-medium);
-  background: var(--custom-btn-bg-hover-color);
+  background: var(--j-color);
   height: 110px;
 }
 
