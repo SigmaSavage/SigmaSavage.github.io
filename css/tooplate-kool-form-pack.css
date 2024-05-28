@@ -507,7 +507,7 @@ strong {
 .contact-form .form-floating>textarea {
   border-radius: var(--border-radius-medium);
   background: var(--j-color);
-  height: 110px;
+  height: 80px; /* was 110px */
 }
 
 .login-form .custom-btn {
