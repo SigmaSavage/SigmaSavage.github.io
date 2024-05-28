@@ -14,11 +14,11 @@ Bootstrap 5 Form Pack Template
 -----------------------------------------*/
 :root {
   --body-bg-color:                #181717;
-  --white-color:                  #ffffff;
-  --primary-color:                #E07A5F;
+  --white-color:                  #13ec13;
+  --primary-color:                #ca49b5;
   --secondary-color:              #F2CC8F;
   --section-bg-color:             #2c2d2e; /* was f0f8ff */
-  --custom-btn-bg-color:          #E07A5F;
+  --custom-btn-bg-color:          #8a046d;
   --custom-btn-bg-hover-color:    #F2CC8F;
   --dark-color:                   #000000;
   --p-color:                      #717275;
