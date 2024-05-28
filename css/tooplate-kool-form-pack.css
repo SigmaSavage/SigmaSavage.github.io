@@ -506,7 +506,7 @@ strong {
 
 .contact-form .form-floating>textarea {
   border-radius: var(--border-radius-medium);
-  background: var(--j-color);
+  background-color: var(--j-color);
   height: 80px; /* was 110px */
 }
 
